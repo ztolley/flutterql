@@ -1,6 +1,6 @@
 # flutterql
 
-A new Flutter project.
+A basic flutter application to demonstrate calling a GraphQL API with no authentication involved.
 
 ## Getting Started
 
@@ -15,6 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+### Useful commands 
 
 ```
 flutter clean
